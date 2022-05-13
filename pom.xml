@@ -30,8 +30,7 @@
 			<version>0.8.7</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-	</dependencies>
+</dependencies>
 
 	<build>
 		<plugins>
